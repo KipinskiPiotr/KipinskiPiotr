@@ -6,7 +6,13 @@ to rollout, and I enjoy digging into performance problems when they come up.
 
 Lately I've been spending more time on the frontend side and I'm keen to grow as a **fullstack engineer**.
 
-- 🏎️ Building **[KiperoRacing](https://kiperoracing.onrender.com/)**, a browser racing game with online multiplayer (JavaScript, WebSockets, PostgreSQL)
+### 🚧 What I'm building
+
+- 🏎️ **[KiperoRacing](https://kiperoracing.onrender.com/)**, a browser racing game with online multiplayer (JavaScript, WebSockets, PostgreSQL)
+- 🏋️ A secret **3D web project** for the fitness industry 🤫
+
+### 🧰 About me
+
 - 🛠️ Main stack: Java, PostgreSQL, AWS, plus JavaScript on the frontend
 - 🧠 Interested in: product engineering, clean APIs, databases and performance
 - 📫 [LinkedIn](https://www.linkedin.com/in/piotr-kipinski)
